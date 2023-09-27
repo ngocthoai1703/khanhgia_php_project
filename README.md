@@ -12,7 +12,7 @@
 ```
 git clone https://github.com/ngocthoai1703/Khanhgia_IS201.M11.HTCL.git
 
-replace localhost of file config.php
+replace localhost,database name of file admin/lib/config.php
 
 run by XAMPP
 ```
