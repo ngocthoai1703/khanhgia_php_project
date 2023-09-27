@@ -1,0 +1,31 @@
+
+div#tabs ul#ultabs 
+{
+	list-style:none;
+	/* border-bottom: 1px solid #ddd; */
+	padding-left:0;
+	padding: 0 10px;
+	text-align: center;
+}
+div#tabs ul#ultabs li
+{line-height: 1em;position: relative;display: inline-block;padding: 7px 25px;font-size: 13px;border:1px solid #ccc;margin: 0 3px 6px;}
+
+div#tabs ul#ultabs li:hover {
+    background-color: #eee;
+    border-color: #eee #eee #eee;
+    cursor:  pointer;
+}
+
+div#tabs ul#ultabs li.active
+{color: #000;cursor: default;background-color: #007196;border: 1px solid #007196;/* border-bottom-color: transparent; */}
+div#content_tabs
+{
+	border-top: none;
+	font-size: 14px;
+	color: #000;
+	min-height: 460px;
+}
+#tabs{
+	margin-top: 50px;
+}
+
