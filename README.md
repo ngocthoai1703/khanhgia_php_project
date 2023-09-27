@@ -2,7 +2,7 @@
 
 ## Install prerequisite software - Window 10
 
-1. XAMPP (must have): [Link](https://www.youtube.com/watch?v=F3wEUL2i5KY)
+1. XAMPP (must have): [Link](https://www.youtube.com/watch?v=VLu6XYOVqmM)
 2. Sublime Text
 3. PHP MyAdmin
 
